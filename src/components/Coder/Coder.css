@@ -1,0 +1,16 @@
+
+.col-md-4  {
+    margin-bottom: 10px;
+}
+.card{
+    padding: 20px 0px !important;
+    margin-left: 30px;
+    
+}
+.card_img{
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    display: block;
+    margin: 0 auto;
+}
