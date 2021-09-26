@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Dot's Coder's 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was maked with [Create React App](https://dots-coders.netlify.app/).
 
 ## Available Scripts
 
